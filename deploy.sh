@@ -17,3 +17,4 @@ git commit -m 'deploy'
 git push -f git@github.com:yihan12/front-end-notes.git master:notesPage
 
 cd -
+
