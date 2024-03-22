@@ -10,6 +10,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.10",
+    "@vuepress/plugin-blog": "^1.9.4",
+    "@vuepress/plugin-medium-zoom": "^1.9.10",
+    "@vuepress/plugin-nprogress": "^1.9.10",
+    "@vuepress/plugin-search": "^1.9.10",
     "vuepress": "^1.9.10",
     "vuepress-theme-reco": "^1.6.17"
   }
