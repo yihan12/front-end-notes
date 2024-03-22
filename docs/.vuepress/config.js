@@ -41,12 +41,11 @@ module.exports = {
                 children: [["start/", "写在最前面"]]
             },
             {
-                title: "基础学习",
-                path: '/start/study',
+                title: "算法与数据结构",
                 collapsable: false, // 不折叠
                 children: [
-                    { title: "条件类型", path: "/start/study" },
-                    { title: "泛型", path: "/start/general" }
+                    { title: "前言", path: "leetcode/" },
+                    { title: "leetcode 0001", path: "leetcode/leetcode 0001" }
                 ],
             }
         ]
