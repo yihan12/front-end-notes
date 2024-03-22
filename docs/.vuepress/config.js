@@ -7,18 +7,16 @@ module.exports = {
     markdown: {
         lineNumbers: true
     },
-    theme: 'reco',
+    // theme: 'reco',
     locales: {
         '/': {
             lang: 'zh-CN'
         }
     },
-    themeConfig: {
-        subSidebar: 'auto'
-    },
 
     themeConfig: {
         search: true,
+        subSidebar: 'auto',
         searchMaxSuggestions: 10,
         lastUpdated: 'Last Updated',
         sidebarDepth: 1,
@@ -38,20 +36,17 @@ module.exports = {
         ],
         sidebar: [
             {
-                title: '欢迎学习',
-                path: '/',
-                collapsable: false, // 不折叠
-                children: [
-                    { title: "学前必读", path: "/" }
-                ]
+                title: "写在最前面",
+                collapsable: false,
+                children: [["start/", "写在最前面"]]
             },
             {
                 title: "基础学习",
-                path: '/handbook/ConditionalTypes',
+                path: '/start/study',
                 collapsable: false, // 不折叠
                 children: [
-                    { title: "条件类型", path: "/handbook/ConditionalTypes" },
-                    { title: "泛型", path: "/handbook/Generics" }
+                    { title: "条件类型", path: "/start/study" },
+                    { title: "泛型", path: "/start/general" }
                 ],
             }
         ]
