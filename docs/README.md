@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.png
 heroText: 前端笔记
-tagline: 建立前端知识体系
+tagline: 建立前端知识体系，追求极简且轻松语言描述知识点
 actionText: 开始学习
 actionLink: /start/
 features:

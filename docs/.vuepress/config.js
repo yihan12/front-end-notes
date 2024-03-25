@@ -41,6 +41,13 @@ module.exports = {
                 children: [["start/", "写在最前面"]]
             },
             {
+                title: "ES6+",
+                collapsable: false, // 不折叠
+                children: [
+                    { title: "前言", path: "ES6+/" },
+                ],
+            },
+            {
                 title: "算法与数据结构",
                 collapsable: false, // 不折叠
                 children: [
