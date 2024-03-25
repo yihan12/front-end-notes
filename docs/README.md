@@ -27,7 +27,7 @@ features:
   - title: 生活小记
     details: 简洁的记录...
 
-footer: MIT Licensed | Copyright © 2024-present 易函123
+footer: MIT 协议 | 版权所有 © 2024-至今 易函123
 ---
 
 <div class='footer' style='display:none'>

@@ -45,6 +45,8 @@ module.exports = {
                 collapsable: false, // 不折叠
                 children: [
                     { title: "前言", path: "leetcode/" },
+                    { title: "时间复杂度", path: "leetcode/time_complexity" },
+                    { title: "空间复杂度", path: "leetcode/space_complexity" },
                     { title: "leetcode 0001", path: "leetcode/leetcode 0001" }
                 ],
             }
