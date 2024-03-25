@@ -14,11 +14,12 @@ date: '2024-03-25'
 
 - HTML&CSS:这部分主要是常用布局与盒模型，还有常见面试题汇总。
 - HTML5&CSS3:新特性的使用。
-- JavaScript 初级
+- JavaScript 基础
 - JavaScript 进阶
-- JavaScript 高级
+- JavaScript 专题
 - 浏览器的工作原理与实践
-- HTTP/HTTPS
+- HTTP 权威指南
+- Webpack/Vite 等构建工具
 - ES6+
 - 算法与数据结构
 
