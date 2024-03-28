@@ -119,7 +119,7 @@ console.log(array[1])
 // Expected output: Array ["test2", "e", "st2", "2"]
 ```
 
-## 3.replaceAll
+## 4.replaceAll
 
 > replace eAll（）方法返回一个新字符串，其中模式的所有匹配项都被替换。该模式可以是字符串或 RegExp，替换可以是字符串或要为每个匹配项调用的函数。原始字符串保持不变。
 
