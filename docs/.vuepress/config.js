@@ -45,7 +45,8 @@ module.exports = {
                 collapsable: false, // 不折叠
                 children: [
                     { title: "前言", path: "ES6+/" },
-                    { title: "变量", path: 'ES6+/variable' }
+                    { title: "变量", path: 'ES6+/variable' },
+                    { title: "解构赋值", path: 'ES6+/destructuring' },
                 ],
             },
             {
