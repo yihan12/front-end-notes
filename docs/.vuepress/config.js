@@ -48,6 +48,8 @@ module.exports = {
                     { title: "变量", path: 'ES6+/variable' },
                     { title: "解构赋值", path: 'ES6+/destructuring' },
                     { title: "模板字符串", path: 'ES6+/string' },
+                    { title: "字符串", path: 'ES6+/stringES6' },
+                    { title: "字符串ES6+", path: 'ES6+/stringES6+' },
                 ],
             },
             {
