@@ -50,6 +50,9 @@ module.exports = {
                     { title: "字符串", path: 'ES6+/stringES6' },
                     { title: "模板字符串", path: 'ES6+/string' },
                     { title: "字符串ES6+", path: 'ES6+/stringES6+' },
+                    { title: "数值类型", path: 'ES6+/number' },
+
+
                 ],
             },
             {
