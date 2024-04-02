@@ -52,6 +52,7 @@ module.exports = {
                     { title: "字符串ES6+", path: 'ES6+/stringES6+' },
                     { title: "数值类型", path: 'ES6+/number' },
                     { title: "数值方法新增", path: 'ES6+/numberMethod' },
+                    { title: "数组", path: 'ES6+/array' },
 
 
                 ],
