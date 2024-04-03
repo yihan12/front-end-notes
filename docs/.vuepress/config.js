@@ -55,6 +55,7 @@ module.exports = {
                     { title: "数组ES6+", path: 'ES6+/arrayES6+' },
                     { title: "函数", path: 'ES6+/function' },
                     { title: "箭头函数", path: 'ES6+/functionArrow' },
+                    { title: "函数rest参数", path: 'ES6+/functionRest' },
 
 
                 ],
