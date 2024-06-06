@@ -22,3 +22,5 @@ object-position 要比 object-fit 单纯的多，就是控制图片在盒子中�
 
 - [MDN object-fit](https://developer.mozilla.org/zh-CN/docs/Web/CSS/object-fit)
 - [MDN object-position](https://developer.mozilla.org/zh-CN/docs/Web/CSS/object-position)
+- [object-fit 详解](https://www.cnblogs.com/libo0125ok/p/8422617.html)
+- [半深入理解 CSS3 object-position/object-fit 属性](https://www.zhangxinxu.com/wordpress/2015/03/css3-object-position-object-fit/)
