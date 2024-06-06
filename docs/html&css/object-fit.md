@@ -4,7 +4,7 @@ author: 易函123
 date: '2024-06-06'
 ---
 
-# 概览
+## 概览
 
 ```css
 object-fit: fill;
@@ -18,7 +18,7 @@ object-position 要比 object-fit 单纯的多，就是控制图片在盒子中�
 
 注：目前 IE 应该还不支持 object-fit 和 object-position 属性
 
-# 参考链接
+## 参考链接
 
 - [MDN object-fit](https://developer.mozilla.org/zh-CN/docs/Web/CSS/object-fit)
 - [MDN object-position](https://developer.mozilla.org/zh-CN/docs/Web/CSS/object-position)
