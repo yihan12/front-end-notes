@@ -83,6 +83,24 @@ module.exports = {
           { title: 'leetcode 0001', path: 'leetcode/leetcode 0001' },
         ],
       },
+      {
+        title: '工具',
+        collapsable: false, // 不折叠
+        children: [
+          { title: '前言', path: 'Tools/' },
+          {
+            title: 'tinymce',
+            collapsable: false, // 不折叠
+            children: [
+              { title: '前言', path: 'Tools/tinymce/' },
+              {
+                title: 'tinymce的media设置，解决视频不能选中删除bug',
+                path: 'Tools/tinymce/media',
+              },
+            ],
+          },
+        ],
+      },
     ],
   },
   configureWebpack: {
