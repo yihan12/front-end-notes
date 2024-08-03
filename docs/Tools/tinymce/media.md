@@ -5,7 +5,7 @@ tags: [前端, tinymce]
 categories: [前端, tinymce, tools]
 ---
 
-### 概览
+# 概览
 
 > 媒体插件为用户增加了将 HTML5 视频和音频元素添加到可编辑区域的能力。它还在“插入”菜单下添加了“插入/编辑视频”项目以及工具栏按钮。
 
@@ -15,7 +15,7 @@ categories: [前端, tinymce, tools]
 
 需要注意的是本文针对的 tinymce 版本是 v4，其他高版本不一定适用。
 
-### 基本设置
+# 基本设置
 
 这里的基本设置，是配置 tinymce 需要配置的工具。初始化时，必须的属性
 
@@ -32,16 +32,16 @@ tinymce.init({
 })
 ```
 
-### 额外设置
+# 额外设置
 
-#### media_live_embeds 媒体实时预览开关
+## media_live_embeds 媒体实时预览开关
 
 开启此选项后，用户可看到编辑区内嵌入视频的实时预览，而不是占位图。
 **取值： true / false**
 **默认： true**
 此设置对 video 无效
 
-#### audio_template_callback 自定义插入音频代码
+## audio_template_callback 自定义插入音频代码
 
 ```javascript
 tinymce.init({
@@ -62,14 +62,14 @@ tinymce.init({
 })
 ```
 
-#### video_template_callback 自定义插入视频代码
+## video_template_callback 自定义插入视频代码
 
 很多文章都是如此配置，但是会出现下面的问题：
 
 - 视频不展示，无法在 tinymce 编辑器播放
 - 视频不能像图片一样进行删除
 
-### 解决视频选中，删除问题的方法
+# 解决视频选中，删除问题的方法
 
 利用 media_url_resolver 进行返回
 
@@ -101,7 +101,7 @@ media_url_resolver: (data, resolve) => {
 },
 ```
 
-### 自定义文件上传
+# 自定义文件上传
 
 ```javascript
 tinymce.init({
@@ -181,7 +181,7 @@ tinymce.init({
 })
 ```
 
-### 参考链接
+# 参考链接
 
 - [tinymce 中文文档](http://tinymce.ax-z.cn/general/upload-images.php)
 - [tinymce 官方文档](https://www.tiny.cloud/docs/tinymce/latest/upload-images/)
