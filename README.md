@@ -1,5 +1,5 @@
 # front-end-notes
-本次分享的完整代码与深度解析已发布在我的博客： 
+💡 我们不是代码搬运工，而是数字世界的造梦者。
 
 [访问我的前端笔记](https://yihan12.github.io/front-end-notes/)，围观我与浏览器的爱恨情仇！  
 
